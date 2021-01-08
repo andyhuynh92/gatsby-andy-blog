@@ -98,15 +98,16 @@ module.exports = {
         }]
       }
     },
+    'gatsby-plugin-netlify-cms-paths',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           'gatsby-remark-relative-images',
           {
-            resolve: 'gatsby-remark-katex',
+            resolve: 'gatsby-remark-mathjax-ssr',
             options: {
-              strict: 'ignore'
+
             }
           },
           {
