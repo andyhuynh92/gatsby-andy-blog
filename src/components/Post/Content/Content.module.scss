@@ -6,6 +6,10 @@
   padding: 0 15px;
   margin: 0 auto;
 
+  ul {
+    list-style-type: circle;
+  }
+
   &__title {
     font-size: $typographic-base-font-size * 2;
     max-width: $layout-post-width;

@@ -1,12 +1,13 @@
 ---
 title: 251 - Resources for Multivariable Calculus
-date: "2021-01-08 15:55:49"
+date: "2021-01-08"
 template: "post"
 draft: false
 slug: "multivariable-calculus"
 category: "Calculus"
 tags:
   - "Calculus"
+  - "Math"
 description: "Here are some resources that I've created over time for Multivariable Calculus."
 ---
 
@@ -25,19 +26,19 @@ I use [Demos](https://www.desmos.com/calculator) and [Math3D](https://www.math3d
 
 ## Selected written up solutions
   Multiple Integrals
-  - Find the volume of the region bounded by $x = 2-y^2$  
+  * Find the volume of the region bounded by $x = 2-y^2$  
     [Solution](https://sites.math.rutgers.edu/~ah926/251/tripleintegral.jpg)
-  - Set up a triple integral that finds the volume of the region between $x^2+y^2+z^2 = 4$ using rectangular coordinates, cylinderical coordinates, and spherical coordinates. Evaluate one of these integrals to find the volume.  
+  * Set up a triple integral that finds the volume of the region between $x^2+y^2+z^2 = 4$ using rectangular coordinates, cylinderical coordinates, and spherical coordinates. Evaluate one of these integrals to find the volume.  
     [Solution](https://sites.math.rutgers.edu/~ah926/251/triplecoordinates.jpg)
-  - Compute $\iint_\mathcal{D} (x+3y)\;dxdy$ using the map $x = u-2v, y = v.$  
+  * Compute $\iint_\mathcal{D} (x+3y)\;dxdy$ using the map $x = u-2v, y = v.$  
     [Solution](https://sites.math.rutgers.edu/~ah926/251/triplecoordinates.jpg)
-  - Compute $\int_C xe^{z^2}\; ds$ using the map $x = u-2v, y = v.$  
+  * Compute $\int_C xe^{z^2}\; ds$ using the map $x = u-2v, y = v.$  
     [Solution](https://sites.math.rutgers.edu/~ah926/251/jacobian.jpg)
 
   Line Integrals
-  - Compute $\int_C xe^{z^2}\; ds$ over the piecewise linear path from to $(0, 0, 1)$  
+  * Compute $\int_C xe^{z^2}\; ds$ over the piecewise linear path from to $(0, 0, 1)$  
   [Solution](https://sites.math.rutgers.edu/~ah926/251/scalarli.jpg)  
-  - Evaluate $\oint_C \sin x dx + z\cos y dy + \sin y dz$ where $C$ is the ellipse $4x^2 + 9y^2 = 36$ oriented clockwise.  
+  * Evaluate $\oint_C \sin x dx + z\cos y dy + \sin y dz$ where $C$ is the ellipse $4x^2 + 9y^2 = 36$ oriented clockwise.  
   [Solution](https://sites.math.rutgers.edu/~ah926/251/vectorli.jpg)  
 
   ## Scalar Line Integral

@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Andy Huynh',
+  title: 'Andy Huynh',
   subtitle: "It's not enough that I should succeed - others should fail.",
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -20,24 +20,28 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Resources',
+      path: '/pages/resources'
+    },
+    {
       label: 'Contact me',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Andy Huynh',
-    photo: '/photo.png',
+    photo: '/photo.jpg',
     bio: "It's not enough that I should succeed - others should fail.",
     contacts: {
-      email: '',
+      email: 'ah926@math.rutgers.edu',
       facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
