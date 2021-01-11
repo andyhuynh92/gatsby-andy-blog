@@ -13,7 +13,7 @@ description: "Here are some resources that I've created over time for probabilit
 
 Here are some resources that I've created over time for probability
 
-Selected problems about combinatorics
+[Selected problems about combinatorics](/media/Ch1.pdf)
 
 Selected problems about basics of probability
 
@@ -26,3 +26,5 @@ Selected problems about continuous random variables
 Selected problems about joint distributions, moment-generating functions, and the central limit theorem
 
 [Review Sheet(Last Updated 12/09/2019)](/media/Review-Midterm-2.pdf)
+
+[Proof of the Central Limit Theorem](/pages/central-limit-theorem);
